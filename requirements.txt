@@ -1,7 +1,7 @@
 streamlit
 streamlit-webrtc
 ultralytics
-opencv-python-headless
+opencv-python-headless>=4.10
 av
 numpy
 torch
