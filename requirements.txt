@@ -1,8 +1,7 @@
-streamlit
-streamlit-webrtc
-ultralytics
-opencv-python-headless>=4.10
-av
-numpy
-torch
-torchvision
+streamlit==1.46.1
+streamlit-webrtc==0.63.4
+ultralytics==8.3.168
+opencv-python-headless==4.11.0.86
+av==17.1.0
+torch==2.7.1
+torchvision==0.22.1
