@@ -5,3 +5,5 @@ opencv-python-headless==4.11.0.86
 av==17.1.0
 torch>=2.13.0
 torchvision>=0.28.0
+numpy<2
+pillow
